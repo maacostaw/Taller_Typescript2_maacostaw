@@ -1,0 +1,34 @@
+
+main{
+    padding:0 40px;
+}
+
+img{
+    display: block;
+    width:45%;
+    border-radius: 50%;
+    margin:auto;
+}
+
+section{
+    display:inline-block;
+    padding: 0 20px;
+}
+
+section article{
+    padding: 0 20px;
+}
+
+#total-credits{
+    text-align:center;
+}
+
+.no-padding{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+button{
+    width:100%;
+    text-align: center;
+}
